@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Scripts\General Scripts\Rotate_Anim.js">
+    <Files>
+      <File FileName="Assets\Standard Assets\Scripts\General Scripts\NodeManager.cs" Line="50" Column="2" />
+      <File FileName="Assets\Standard Assets\Scripts\General Scripts\Node.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\General Scripts\BobbingHEad.js" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\General Scripts\Movement.js" Line="1" Column="1" />
+      <File FileName="Assets\NewBehaviourScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\General Scripts\HUD.js" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets (Mobile)\Scripts\FirstPersonControl.js" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\General Scripts\Tourch_Light_Follow.js" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\General Scripts\Light_Flicker.js" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\General Scripts\Refuel_Object.js" Line="8" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\General Scripts\PauseMenu.js" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\General Scripts\BobbingTorch.js" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\General Scripts\Fuel_Tourch_interaction.js" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\General Scripts\Rotate_Anim.js" Line="8" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
